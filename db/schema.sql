@@ -1,7 +1,5 @@
 ### Schema
 use 'b06xzxh29fqh54d4';
-CREATE DATABASE burgers_db;
-USE burgers_db;
 
 CREATE TABLE burgers
 (
