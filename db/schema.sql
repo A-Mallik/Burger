@@ -1,5 +1,5 @@
 ### Schema
-use 'dsugq0ck4tvgl64e';
+use 'b06xzxh29fqh54d4';
 CREATE DATABASE burgers_db;
 USE burgers_db;
 
