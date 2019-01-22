@@ -1,5 +1,5 @@
 ### Schema
-use `06xzxh29fqh54d4`;
+use `b06xzxh29fqh54d4`;
 
 CREATE TABLE burgers
 (
